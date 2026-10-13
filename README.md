@@ -10,7 +10,7 @@
 
 ## 使い方
 
-https://shiokara2424.github.io/Vertical-writer/ にアクセス、またはローカルで `index.html` を開く。
+https://ot-vibecoding.github.io/Vertical-writer/ にアクセス、またはローカルで `index.html` を開く。
 
 スマホではブラウザの「ホーム画面に追加」で、アプリのように使えます（PWA対応）。
 
